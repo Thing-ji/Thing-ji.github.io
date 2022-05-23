@@ -19,7 +19,7 @@
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
                 {% for category in site.categories %}
                     {% if category[0] == "ml" %}
-                        <li><a href="/categories/ml" class="">C ++ ({{category[1].size}})</a></li>
+                        <li><a href="/categories/ml" class="">연습용 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -27,8 +27,8 @@
         <span class="nav__sub-title">Github blog</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "blog" %}
-                        <li><a href="/categories/blog" class="">C ++ ({{category[1].size}})</a></li>
+                    {% if category[0] == "github blog" %}
+                        <li><a href="/categories/blog" class="">블로그 튜토리얼 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
