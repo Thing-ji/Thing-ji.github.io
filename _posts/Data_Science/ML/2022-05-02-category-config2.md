@@ -1,8 +1,8 @@
 ---
 title: ML
 categories:	
-    - ml
-tags: ml
+    - machine learning
+tags: ML
 toc: true # 목차 / heading(markdown 기준, #)에 따라 생김
 author_profile: false # author_profile 보이는거 끄기
 sdiebar:
@@ -17,5 +17,4 @@ sdiebar:
 
 
 
-#### 6/7 바뀜!!
-
+#### 6/7 바뀜!! 3333333333
