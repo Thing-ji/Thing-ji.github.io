@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Thing-ju blog. There is my first page"
+title:  "블로그 연습장"
 categories:	
-    - Time series
+    - github blog
 tags:
 - github blog
 - 깃허브 블로그
