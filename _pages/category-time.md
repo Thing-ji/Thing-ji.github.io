@@ -7,5 +7,5 @@ sidebar_main: true
 ---
 
 
-{% assign posts = site.categories["Time series"] %}
+{% assign posts = site.categories["time series"] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

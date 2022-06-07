@@ -1,9 +1,9 @@
 ---
 title:  "Time series test"
 categories:	
-    - Time series
+    - time series
 tags:
-- Time series
+- time series
 toc: true
 author_profile: false
 sdiebar:
