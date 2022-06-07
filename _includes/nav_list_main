@@ -32,6 +32,15 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+        <span class="nav__sub-title">Github blog</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "time series" %}
+                        <li><a href="/categories/time" class="">Time series analysis ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
