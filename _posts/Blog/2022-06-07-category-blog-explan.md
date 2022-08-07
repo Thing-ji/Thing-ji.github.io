@@ -19,3 +19,5 @@ last_modified_at:
     > 2. _incudes  ->  nav_list_main에서 <span> 추가
 
 category에서의 title이 category명이 됨.
+
+title 및 tag 명이 한글일때엔 " " <- 이거 붙여주기
