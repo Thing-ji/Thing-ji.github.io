@@ -1,11 +1,11 @@
 ---
-title: "[개념과 종류] Machine Learning의 개념"
+title: "[개념과 종류] Machine learning"
 categories:	
     - machine learning
 tags: 
-- [ML]_개념과 종류
+- "[ML] 개념과 종류"
 toc: true # 목차 / heading(markdown 기준, #)에 따라 생김
-author_profile: True # author_profile 보이는거 끄기
+author_profile: true # author_profile 보이는거 끄기
 sdiebar:
     nav: "docs" # 설정한 sidebar 보이게 하기
 use_math: true
@@ -27,7 +27,7 @@ use_math: true
 간단하게 말해서 머신러닝이란  **"무엇(x)으로 무엇(y)를 예측하고 싶다"** 라고 표현할 수 있다. 물론 예측 뿐만 아니라 분류, 인지 등의 다양한 역할을 수행할 수 있다.
 
 ![image-20220807150026888](../assets/images/2022-08-07-start_concept_1/image-20220807150026888.png)
-![image](https://github.com/Thing-ji/Thing-ji.github.io/blob/master/_posts/Data_Science/assets/images/2022-08-07-start_concept_1/image-20220807150026888.png)
+![image](https://raw.githubusercontent.com/Thing-ji/Thing-ji.github.io/master/_posts/Data_Science/assets/images/2022-08-07-start_concept_1/image-20220807150026888.png)
 
 - 주어진 데이터를 통해 **입력변수**와 **출력변수** 간 관계를 만드는 함수 **f**를 만드는 것
 - 주어진 데이터 속에서 데이터의 특징을 찾아내는 함수 **f**를 만드는 것
