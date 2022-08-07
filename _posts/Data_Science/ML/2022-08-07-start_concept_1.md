@@ -2,7 +2,8 @@
 title: [개념과 종류] Machine Learning의 개념
 categories:	
     - machine learning
-tags: [ML]_개념과 종류
+tags: 
+- [ML]_개념과 종류
 toc: true # 목차 / heading(markdown 기준, #)에 따라 생김
 author_profile: True # author_profile 보이는거 끄기
 sdiebar:
