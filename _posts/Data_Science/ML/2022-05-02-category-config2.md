@@ -1,5 +1,5 @@
 ---
-title: "[개념과 종류] Machine Learning의 개념"
+title: ML
 categories:	
     - machine learning
 tags: ML
