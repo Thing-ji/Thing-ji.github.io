@@ -21,3 +21,6 @@ last_modified_at:
 category에서의 title이 category명이 됨.
 
 title 및 tag 명이 한글일때엔 " " <- 이거 붙여주기
+
+블로그 커스터마이징 참고자료 : https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes
+
